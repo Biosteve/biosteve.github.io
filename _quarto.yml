@@ -1,19 +1,25 @@
 project:
   type: website
-
+  preview:
+    port: 4200
+    browser: true
+  
+  
 website:
   title: "biosteve.github.io"
   navbar:
-    left:
+    logo: "C:/Users/stefa/Desktop/R Projects/biosteve.github.io/images/PLogo.png"
+    pinned: True
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - technical_publications.qmd
 
 format:
   html:
     theme:
-      - minty
-      - brand
+      - solar
     css: styles.css
     toc: true
 
