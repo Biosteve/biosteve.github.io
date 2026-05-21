@@ -99,16 +99,16 @@ editor_options:
 
 
 
-Theses/Monographs (in reverse chronological order)
+# Theses/Monographs (in reverse chronological order)
 
-- (June 2025 - March 2026) M.Sc Title: *Analysis of the evolutionary history of eukaryotic genes in relation to their spatial arrangement in the eukaryotic nucleus*
+- M.Sc Thesis title: *Analysis of the evolutionary history of eukaryotic genes in relation to their spatial arrangement in the eukaryotic nucleus*
 
-  Location: Biomedical Sciences Research Center "Alexander Fleming", Athens, Greece
+  Location: Biomedical Sciences Research Center "Alexander Fleming", Athens, Greece | June 2025 - March 2026
 
-- (June 2016 - December 2020) Ph.D Title: *Allometric growth patterns of body shape in Gilthead sea bream (_Sparus aurata_ Linnaeus, 1758). Normal phenotype and skeletal deformities*
+- Ph.D Thesis title: *Allometric growth patterns of body shape in Gilthead sea bream (_Sparus aurata_ Linnaeus, 1758). Normal phenotype and skeletal deformities*
 
-  Location: Biology Department, University of Crete, Heraklion, Greece
+  Location: Biology Department, University of Crete, Heraklion, Greece | June 2016 - December 2020
 
-- (September 2013 - November 2014) M.Sc Title: *Sources of phenotypic variation in reared Gilthead sea bream. Morpho-anatomical abnormalities, variability of normal phenotype and heritability estimations*
+- M.Sc Thesis title: *Sources of phenotypic variation in reared Gilthead sea bream. Morpho-anatomical abnormalities, variability of normal phenotype and heritability estimations*
 
-  Location: Biology Department, University of Crete, Heraklion, Greece
+  Location: Biology Department, University of Crete, Heraklion, Greece | September 2013 - November 2014
