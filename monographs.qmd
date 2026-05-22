@@ -4,57 +4,52 @@ editor_options:
   chunk_output_type: inline
 ---
 
-
 ::: {style="text-align: justify;"}
+**Doctoral Dissertation | Biology**
 
- **Doctoral Dissertation | Biology **
+*Allometric growth patterns of body shape in Gilthead sea bream (Sparus aurata* Linnaeus, 1758). Normal phenotype and skeletal deformities
 
-  _Allometric growth patterns of body shape in Gilthead sea bream (_Sparus aurata_ Linnaeus, 1758). Normal phenotype and skeletal deformities_
+DOI: [http://hdl.handle.net/10442/hedi/48656](http://hdl.handle.net/10442/hedi/48656){.btn .btn-outline-primary .btn-sm target="_blank"}
 
-  DOI: <http://hdl.handle.net/10442/hedi/48656>{.btn .btn-outline-primary .btn-sm target="_blank"}
-  
-  **Summary**
-  
-  - This research utilized geometric morphometry, X-ray imaging, and individual pit-tagging to longitudinally track the external morphology and skeletal deformities of reared gilthead sea bream from the juvenile stage to harvest size.
+**Summary**
 
-  - The study revealed that normal body shape undergoes significant biphasic allometric growth, while also documenting the first evidence that severe deformities like haemal lordosis can naturally recover through vertebral remodeling or counter-balanced kyphosis.
+- This research utilized geometric morphometry, X-ray imaging, and individual pit-tagging to longitudinally track the external morphology and skeletal deformities of reared gilthead sea bream from the juvenile stage to harvest size.
 
-  - Ultimately, demonstrating this morphological plasticity during the on-growing period provides valuable predictive tools for enhancing selective breeding programs and improving the quality of commercial aquaculture products.
-  
-  _Keywords: External morphology, Allometric trajectories, Skeletal biology, Geometric morphometry_
+- The study revealed that normal body shape undergoes significant biphasic allometric growth, while also documenting the first evidence that severe deformities like haemal lordosis can naturally recover through vertebral remodeling or counter-balanced kyphosis.
 
+- Ultimately, demonstrating this morphological plasticity during the on-growing period provides valuable predictive tools for enhancing selective breeding programs and improving the quality of commercial aquaculture products.
 
-  **Master's Thesis | Applied Bioinformatics and Data Analysis**
+*Keywords: External morphology, Allometric trajectories, Skeletal biology, Geometric morphometry*
 
-  _Analysis of the evolutionary history of eukaryotic genes in relation to their spatial arrangement in the eukaryotic nucleus_
+**Master's Thesis | Applied Bioinformatics and Data Analysis**
 
-  DOI: <https://repo.lib.duth.gr/jspui/handle/123456789/22090>{.btn .btn-outline-primary .btn-sm target="_blank"}
-  
-  **Summary**
-  
-  - This research investigated the three-dimensional spatial reorganization of the genome, specifically Radial Positioning (RP), during the transdifferentiation of B-lymphocytes into macrophages.
-  
-  - By analyzing distinct time points and evolutionary gene origins, the study revealed significant chromosomal relocation where nuclear positioning strongly correlates with both a gene's functional role and its phylogenetic age.
-  
-  - Ultimately, the findings demonstrate that cellular reprogramming requires more than just a transcriptional shift, relying heavily on a comprehensive spatial restructuring of the genome to establish a new cellular identity.
-  
-  _Keywords: Systems biology, Genome architecture, Bioinformatics_
-  
+*Analysis of the evolutionary history of eukaryotic genes in relation to their spatial arrangement in the eukaryotic nucleus*
 
-  **Master's Thesis | Environmental Biology**
+DOI: [https://repo.lib.duth.gr/jspui/handle/123456789/22090](https://repo.lib.duth.gr/jspui/handle/123456789/22090){.btn .btn-outline-primary .btn-sm target="_blank"}
 
-  _Sources of phenotypic variation in reared Gilthead sea bream. Morpho-anatomical abnormalities, variability of normal phenotype and heritability estimations_
+**Summary**
 
-  DOI: <https://elocus.lib.uoc.gr/dlib/3/f/0/metadata-dlib-1424950701-864372-31568.tkl>{.btn .btn-outline-primary .btn-sm target="_blank"}
+- This research investigated the three-dimensional spatial reorganization of the genome, specifically Radial Positioning (RP), during the transdifferentiation of B-lymphocytes into macrophages.
 
-  **Summary**
-  
-  - This research investigated the phenotypic variance of reared sea bream, examining how different rearing conditions affect skeletal abnormalities in larvae and overall body shape in adults.
-  
-  - By developing novel semi-quantitative scales and conducting parentage analysis, the study revealed significant heritabilities for both specific external jaw deformities ($h^2 = 0.115 \pm 0.041$) and distinct adult morphological traits.
-  
-  - Ultimately, establishing these quantitative metrics for early ontogenetic stages minimizes environmental noise, providing highly heritable morphological targets to improve future selective breeding programs in aquaculture.
-  
-  _Keywords: Skeletal abnormalities, Heritability, Plasticity_
+- By analyzing distinct time points and evolutionary gene origins, the study revealed significant chromosomal relocation where nuclear positioning strongly correlates with both a gene's functional role and its phylogenetic age.
 
+- Ultimately, the findings demonstrate that cellular reprogramming requires more than just a transcriptional shift, relying heavily on a comprehensive spatial restructuring of the genome to establish a new cellular identity.
+
+*Keywords: Systems biology, Genome architecture, Bioinformatics*
+
+**Master's Thesis | Environmental Biology**
+
+*Sources of phenotypic variation in reared Gilthead sea bream. Morpho-anatomical abnormalities, variability of normal phenotype and heritability estimations*
+
+DOI: [https://elocus.lib.uoc.gr/dlib/3/f/0/metadata-dlib-1424950701-864372-31568.tkl](https://elocus.lib.uoc.gr/dlib/3/f/0/metadata-dlib-1424950701-864372-31568.tkl){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+**Summary**
+
+- This research investigated the phenotypic variance of reared sea bream, examining how different rearing conditions affect skeletal abnormalities in larvae and overall body shape in adults.
+
+- By developing novel semi-quantitative scales and conducting parentage analysis, the study revealed significant heritabilities for both specific external jaw deformities ($h^2 = 0.115 \pm 0.041$) and distinct adult morphological traits.
+
+- Ultimately, establishing these quantitative metrics for early ontogenetic stages minimizes environmental noise, providing highly heritable morphological targets to improve future selective breeding programs in aquaculture.
+
+*Keywords: Skeletal abnormalities, Heritability, Plasticity*
 :::
