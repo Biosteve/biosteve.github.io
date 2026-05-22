@@ -2,7 +2,7 @@
 title: "Stefanos N. Fragkoulis"
 about:
   template: jolla
-  image: C:/Users/stefa/Desktop/R Projects/biosteve.github.io/images/About_logo.png
+  image: C:/Users/stefa/Desktop/R Projects/biosteve.github.io/Images/About_logo.png
   links:
     - icon: Linkedin
       text: Linkedin

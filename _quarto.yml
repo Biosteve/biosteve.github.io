@@ -14,6 +14,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - monographs.qmd
       - technical_publications.qmd
 
 format:

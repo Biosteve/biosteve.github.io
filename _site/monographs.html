@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Stefanos N. Fragkoulis – biosteve.github.io</title>
+<title>Academic Monographs – biosteve.github.io</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -36,6 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -69,11 +70,40 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -99,11 +129,11 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">Stefanos N. Fragkoulis</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./monographs.html"> 
+    <a class="nav-link active" href="./monographs.html" aria-current="page"> 
 <span class="menu-text">Academic Monographs</span></a>
   </li>  
   <li class="nav-item">
@@ -121,45 +151,76 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="C:/Users/stefa/Desktop/R Projects/biosteve.github.io/Images/About_logo.png" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Stefanos N. Fragkoulis</h1>
+<h1 class="title">Academic Monographs</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header><main class="content" id="quarto-document-content">
-<p>This is the personal website of Stefanos N. Fragkoulis.</p>
-<p>Hello World!</p>
-<p>I’m a Bioinformatician/Data Analyst with a PhD in Biology and two MSc degrees—one in Environmental Biology and the other in Applied Bioinformatics &amp; Data Analysis. With over 10 years of experience in data analysis, I have worked on 3 national and 3 international Research Grants in the fields of natural and biological sciences. My expertise spans Genomics, Systems Biology, Environmental Science, and the integration of biological and environmental data.</p>
-<p>In my current role as a Science Officer and Panel Coordinator for Life Science Committees, I have honed my skills in research evaluation, panel coordination, and framework development to ensure the highest standards of scientific rigor. I also hold certifications in Project Management and Data Science (R &amp; Python) and have contributed to 12 peer-reviewed publications and 11 conference proceedings.</p>
-<p>I’m eager to apply my experience and skills in data-driven biological research and bioinformatics to make a meaningful impact in the industrial sector, particularly in biotech, conservation, and environmental industries. I’m always open to connecting with professionals and organizations looking to push the boundaries of research and innovation.</p>
+  
 
 
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://www.linkedin.com/in/stefanos-fragkoulis-333341205/" class="about-link" rel="" target="">
-    <i class="bi bi-Linkedin"></i>
-     <span class="about-link-text">Linkedin</span>
-  </a>
-  <a href="https://github.com/Biosteve" class="about-link" rel="" target="">
-    <i class="bi bi-Github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="https://orcid.org/0000-0002-3504-2564" class="about-link" rel="" target="">
-    <i class="bi bi-ORCID"></i>
-     <span class="about-link-text">ORCID</span>
-  </a>
+</header>
+
+
+<div style="text-align: justify;">
+<p><strong>Doctoral Dissertation | Biology </strong></p>
+<p><em>Allometric growth patterns of body shape in Gilthead sea bream (<em>Sparus aurata</em> Linnaeus, 1758). Normal phenotype and skeletal deformities</em></p>
+<p>DOI: <a href="http://hdl.handle.net/10442/hedi/48656" class="btn btn-outline-primary btn-sm" target="_blank">http://hdl.handle.net/10442/hedi/48656</a></p>
+<p><strong>Summary</strong></p>
+<ul>
+<li><p>This research utilized geometric morphometry, X-ray imaging, and individual pit-tagging to longitudinally track the external morphology and skeletal deformities of reared gilthead sea bream from the juvenile stage to harvest size.</p></li>
+<li><p>The study revealed that normal body shape undergoes significant biphasic allometric growth, while also documenting the first evidence that severe deformities like haemal lordosis can naturally recover through vertebral remodeling or counter-balanced kyphosis.</p></li>
+<li><p>Ultimately, demonstrating this morphological plasticity during the on-growing period provides valuable predictive tools for enhancing selective breeding programs and improving the quality of commercial aquaculture products.</p></li>
+</ul>
+<p><em>Keywords: External morphology, Allometric trajectories, Skeletal biology, Geometric morphometry</em></p>
+<p><strong>Master’s Thesis | Applied Bioinformatics and Data Analysis</strong></p>
+<p><em>Analysis of the evolutionary history of eukaryotic genes in relation to their spatial arrangement in the eukaryotic nucleus</em></p>
+<p>DOI: <a href="https://repo.lib.duth.gr/jspui/handle/123456789/22090" class="btn btn-outline-primary btn-sm" target="_blank">https://repo.lib.duth.gr/jspui/handle/123456789/22090</a></p>
+<p><strong>Summary</strong></p>
+<ul>
+<li><p>This research investigated the three-dimensional spatial reorganization of the genome, specifically Radial Positioning (RP), during the transdifferentiation of B-lymphocytes into macrophages.</p></li>
+<li><p>By analyzing distinct time points and evolutionary gene origins, the study revealed significant chromosomal relocation where nuclear positioning strongly correlates with both a gene’s functional role and its phylogenetic age.</p></li>
+<li><p>Ultimately, the findings demonstrate that cellular reprogramming requires more than just a transcriptional shift, relying heavily on a comprehensive spatial restructuring of the genome to establish a new cellular identity.</p></li>
+</ul>
+<p><em>Keywords: Systems biology, Genome architecture, Bioinformatics</em></p>
+<p><strong>Master’s Thesis | Environmental Biology</strong></p>
+<p><em>Sources of phenotypic variation in reared Gilthead sea bream. Morpho-anatomical abnormalities, variability of normal phenotype and heritability estimations</em></p>
+<p>DOI: <a href="https://elocus.lib.uoc.gr/dlib/3/f/0/metadata-dlib-1424950701-864372-31568.tkl" class="btn btn-outline-primary btn-sm" target="_blank">https://elocus.lib.uoc.gr/dlib/3/f/0/metadata-dlib-1424950701-864372-31568.tkl</a></p>
+<p><strong>Summary</strong></p>
+<ul>
+<li><p>This research investigated the phenotypic variance of reared sea bream, examining how different rearing conditions affect skeletal abnormalities in larvae and overall body shape in adults.</p></li>
+<li><p>By developing novel semi-quantitative scales and conducting parentage analysis, the study revealed significant heritabilities for both specific external jaw deformities (<span class="math inline">\(h^2 = 0.115 \pm 0.041\)</span>) and distinct adult morphological traits.</p></li>
+<li><p>Ultimately, establishing these quantitative metrics for early ontogenetic stages minimizes environmental noise, providing highly heritable morphological targets to improve future selective breeding programs in aquaculture.</p></li>
+</ul>
+<p><em>Keywords: Skeletal abnormalities, ΗHeritability, Plasticity</em></p>
 </div>
-</div>
- <!-- /main -->
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
