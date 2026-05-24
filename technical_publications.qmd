@@ -14,75 +14,51 @@ resources:
 
 - Antinero, A., Printzi, A., Kourkouta, C., **Fragkoulis, S.**, Mazurais, D., Zambonino-Infante, J.L., & Koumoundouros, G. (2023). The role of starter diets in the development of skeletal abnormalities in zebrafish *Danio rerio* (Hamilton, 1822). *Journal of Fish Diseases*, 46, 697–705 \| DOI: <https://doi.org/10.1111/jfd.13779>{.btn .btn-outline-primary .btn-sm target="_blank"}
 
-  **Summary**
-
-  _Different early-stage diets significantly alter the incidence of skeletal deformities—such as scoliosis and swimming-induced lordosis—in larval zebrafish without affecting overall growth or survival, underscoring the potential for nutritional control of skeletal anomalies in finfish aquaculture._
+  **Summary**: _Different early-stage diets significantly alter the incidence of skeletal deformities—such as scoliosis and swimming-induced lordosis—in larval zebrafish without affecting overall growth or survival, underscoring the potential for nutritional control of skeletal anomalies in finfish aquaculture._
 
 - **Fragkoulis, S.**, Kourkouta, C., Geladakis, G., Printzi, A., Glaropoulos, A. & Koumoundouros, G. (2022). Recovery of Haemal Lordosis in European Seabass *Dicentrarchus labrax* (Linnaeus 1758). *Aquaculture Journal*, 2, 1-12 \| DOI: <https://doi.org/10.3390/aquacj2010001>{.btn .btn-outline-primary .btn-sm target="_blank"}
 
-  **Summary**
-
-  _Tracking European seabass from the juvenile to harvest stages reveals that the majority of fish with swimming-induced haemal lordosis naturally recover a normal body shape, a finding supported by new morphometric indices designed to help commercial hatcheries screen for skeletal abnormalities._
+  **Summary**: _Tracking European seabass from the juvenile to harvest stages reveals that the majority of fish with swimming-induced haemal lordosis naturally recover a normal body shape, a finding supported by new morphometric indices designed to help commercial hatcheries screen for skeletal abnormalities._
 
 - **Fragkoulis, S.**, Kerasovitis, D., Batargias, C. & Koumoundouros G. (2021). Body-shape trajectories and their genetic variance component in Gilthead seabream (*Sparus aurata* L.). *Scientific Reports* 11, 16964 | DOI: <https://doi.org/10.1038/s41598-021-95726-9>{.btn .btn-outline-primary .btn-sm target="_blank"}
 
-  **Summary**
-
-  _Tracking the morphological development of Gilthead seabream from juvenile to adult stages reveals a substantial additive genetic component in both their final body shape and the rate of shape change, offering a heritable basis for improving selective breeding programs in aquaculture._
+  **Summary**:  _Tracking the morphological development of Gilthead seabream from juvenile to adult stages reveals a substantial additive genetic component in both their final body shape and the rate of shape change, offering a heritable basis for improving selective breeding programs in aquaculture._
 
 - Printzi, A., Kourkouta, C., **Fragkoulis, S.**, Dimitriadi, A., Geladakis, G., Orfanakis, M., Mazurais, D., Zambonino-Infante, J.L., & Koumoundouros, G. (2021). Balancing between Artemia and microdiet usage for normal skeletal development in zebrafish (*Danio rerio*). *Journal of Fish Diseases*, 44, 1689–1696 \| DOI: <https://doi.org/10.1111/jfd.13487>{.btn .btn-outline-primary .btn-sm target="_blank"}
 
-  **Summary**
-
-  _The transition rate from live feed to a dry microdiet significantly impacts the incidence of skeletal abnormalities, growth, and survival in larval zebrafish, demonstrating that a more gradual dietary transition is crucial for ensuring normal skeletal development._
+  **Summary**:  _The transition rate from live feed to a dry microdiet significantly impacts the incidence of skeletal abnormalities, growth, and survival in larval zebrafish, demonstrating that a more gradual dietary transition is crucial for ensuring normal skeletal development._
 
 - **Fragkoulis, S.** & Koumoundouros G. (2021). Simple morphometrics for predicting lordosis-induced deviations of body shape in reared Gilthead seabream (*Sparus aurata* L.). *Journal of Fish Diseases*, 44, 1265-1267 \| DOI: <https://doi.org/10.1111/jfd.13384>{.btn .btn-outline-primary .btn-sm target="_blank"}
 
-  **Summary**
-  
-  _This study demonstrates that a simple, non-lethal predictor angle (PrAn) measured from three external landmarks can effectively quantify and predict the severity of haemal lordosis and its ultimate impact on the body shape of reared Gilthead seabream at harvest._
+  **Summary**:  _This study demonstrates that a simple, non-lethal predictor angle (PrAn) measured from three external landmarks can effectively quantify and predict the severity of haemal lordosis and its ultimate impact on the body shape of reared Gilthead seabream at harvest._
 
 - **Fragkoulis, S.**, Economou, I., Moukas, G., Koumoundouros, G. & Batargias, C. (2020). Caudal fin abnormalities in Gilthead seabream (*Sparus aurata* L.) have a strong genetic variance component. *Journal of Fish Diseases*, 43, 825-828 \| DOI: <https://doi.org/10.1111/jfd.13180>{.btn .btn-outline-primary .btn-sm target="_blank"}
 
-  **Summary**
-  
-  _By examining Gilthead seabream larvae, this study reveals that caudal fin abnormalities possess a substantial additive genetic component with moderate heritability, suggesting that targeted selective breeding could be an effective strategy to decrease the incidence of these deformities in commercial aquaculture._
+  **Summary**:  _By examining Gilthead seabream larvae, this study reveals that caudal fin abnormalities possess a substantial additive genetic component with moderate heritability, suggesting that targeted selective breeding could be an effective strategy to decrease the incidence of these deformities in commercial aquaculture._
 
 - Printzi, A., **Fragkoulis, S.**, Dimitriadi, A., Keklikoglou, K., Arvanitidis, C., Witten, P.E. & Koumoundouros, G. (2019). Exercise-induced lordosis in zebrafish *Danio rerio* (Hamilton, 1822). *Journal of Fish Diseases*, 98, 987-994 \| DOI: <https://doi.org/10.1111/jfb.14240>{.btn .btn-outline-primary .btn-sm target="_blank"}
 
-  **Summary**
-
-  _Subjecting zebrafish to continuous swimming exercise rapidly induces dose-dependent haemal lordosis, establishing a reliable and welfare-compatible model for studying skeletal abnormalities in post-embryonic vertebrates._
+  **Summary**:  _Subjecting zebrafish to continuous swimming exercise rapidly induces dose-dependent haemal lordosis, establishing a reliable and welfare-compatible model for studying skeletal abnormalities in post-embryonic vertebrates._
 
 - **Fragkoulis, S.**, Printzi, A., Geladakis, G., Katribouzas, N. & Koumoundouros, G. (2019). Recovery of haemal lordosis in Gilthead seabream (*Sparus aurata* L.). *Scientific Reports* 9, 9832 \| DOI: <https://doi.org/10.1038/s41598-019-46334-1>{.btn .btn-outline-primary .btn-sm target="_blank"}
 
-  **Summary**
-
-  _Tracking Gilthead seabream during the sea cage on-growing phase reveals the first evidence, that haemal lordosis can naturally recover over time, restoring a completely normal external body shape and vertebral column in a significant portion of affected fish._
+  **Summary**:  _Tracking Gilthead seabream during the sea cage on-growing phase reveals the first evidence, that haemal lordosis can naturally recover over time, restoring a completely normal external body shape and vertebral column in a significant portion of affected fish._
 
 - **Fragkoulis, S.**, Batargias, C., Kolios, P. & Koumoundouros, G. (2018).Genetic parameters of the upper-jaw abnormalities in Gilthead seabream *Sparus aurata*. Aquaculture, 497, 226-233 \| DOI: <https://doi.org/10.1016/j.aquaculture.2018.07.071>{.btn .btn-outline-primary .btn-sm target="_blank"}
 
-  **Summary**
-  
-  _While gross, externally visible jaw deformities in Gilthead seabream larvae lack significant heritability, specific underlying internal skeletal abnormalities exhibit a significant genetic component, demonstrating that precise phenotypic scoring is essential for effective selective breeding programs._
+  **Summary**:  _While gross, externally visible jaw deformities in Gilthead seabream larvae lack significant heritability, specific underlying internal skeletal abnormalities exhibit a significant genetic component, demonstrating that precise phenotypic scoring is essential for effective selective breeding programs._
 
 - Crespel, A., Zambonino-Infante, J.L., Mazurais, D. Koumoundouros, G., **Fragkoulis, S.**, Quazuguel, P., Huelvan, C., Madec, L., Servili, A. & Claireaux, G. (2018). The development of contemporary European sea bass larvae (*Dicentrarchus labrax*) is not affected by projected ocean acidification scenarios. *Marine Biology*, 164, 155 \| DOI: <https://doi.org/10.1007/s00227-017-3178-x>{.btn .btn-outline-primary .btn-sm target="_blank"}
 
-  **Summary**
-
-  _Chronic exposure to projected ocean acidification scenarios had minimal adverse effects on the early development of European sea bass larvae and unexpectedly reduced skeletal deformities, suggesting these fish possess an innate physiological resilience to future hypercapnic conditions without needing to mobilize specific defense mechanisms._
+  **Summary**:  _Chronic exposure to projected ocean acidification scenarios had minimal adverse effects on the early development of European sea bass larvae and unexpectedly reduced skeletal deformities, suggesting these fish possess an innate physiological resilience to future hypercapnic conditions without needing to mobilize specific defense mechanisms._
 
 - **Fragkoulis, S.**, Christou M., Karo, R., Ritas, C., Tzokas, C., Batargias, C. & Koumoundouros, G. (2016). Scaling of body-shape quality in reared gilthead seabream *Sparus aurata* L. Consumer preference assessment, wild standard and variability in reared phenotype. *Aquaculture Research*, 48, 2402-2410 \| DOI: <https://doi.org/10.1111/are.13076>{.btn .btn-outline-primary .btn-sm target="_blank"}
 
-  **Summary**
-
-  _By integrating consumer preferences to develop a morphological quality scale, this study demonstrates that both the origin of the fish (Wild versus Reared) and the specific rearing environment significantly alter the body shape and key morphometric traits of Gilthead seabream._
+  **Summary**:  _By integrating consumer preferences to develop a morphological quality scale, this study demonstrates that both the origin of the fish (Wild versus Reared) and the specific rearing environment significantly alter the body shape and key morphometric traits of Gilthead seabream._
 
 - **Fragkoulis, S.**, Paliogiannis, H., Kokkinias, P., Chiers, K., Adriaens, D. & Koumoundouros, G. (2016). Saddleback syndrome in European sea bass *Dicentrarchus labrax* (Linnaeus, 1758): anatomy, ontogeny and correlation with lateral-line, anal and pelvic fin abnormalities. *Journal of Fish Diseases*, 40, 83-95 \| DOI: <https://doi.org/10.1111/jfd.12494>{.btn .btn-outline-primary .btn-sm target="_blank"}
 
-  **Summary**
-
-  _Anatomical and ontogenetic analysis of saddleback syndrome in reared European sea bass reveals that the condition originates from severe marginal finfold abnormalities during the early flexion stage and strongly correlates with additional fin and lateral line defects._
+  **Summary**:  _Anatomical and ontogenetic analysis of saddleback syndrome in reared European sea bass reveals that the condition originates from severe marginal finfold abnormalities during the early flexion stage and strongly correlates with additional fin and lateral line defects._
 
 :::
 
