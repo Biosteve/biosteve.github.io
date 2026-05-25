@@ -1,7 +1,49 @@
 ---
-title: "biosteve.github.io"
+title: "Stefanos Fragkoulis"
+image: Images/About_logo.png
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 10em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:stefanos_fragkoulis@hotmail.com
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/stefanos-fragkoulis-333341205/
+    - icon: github
+      text: Github
+      href: https://github.com/Biosteve
+    - href: https://orcid.org/0000-0002-3504-2564
+      text: "<img src='Images/orcid.svg' style='width: 16px; height: 16px; margin-right: 8px; margin-bottom: 3px; vertical-align: middle;'> ORCID"
+body-classes: homepage-bg
+css: styles.css
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {style="text-align: justify;"}
+
+### Hello World, I'm Stefanos!
+
+I am a Biologist and PRINCE2-certified Project Manager. I combine a strong scientific foundation with advanced data science skills to bridge the gap between complex research and technical execution. 
+
+Currently, I manage workflows and coordinate panel committees at the Hellenic Foundation for Research and Innovation (HFRI). Moving forward, I am actively seeking **remote Bioinformatics, Data Science, or Technical Project Management roles within the EMEA region** where I can dedicate the majority of my time to writing code, building pipelines, and analyzing data.
+
+### Beyond the Screen
+
+When I am not managing panels or writing code, you will usually find me outdoors walking, running, or hiking. I train in multiple martial arts—including Brazilian Jiu-Jitsu, Kyokushin Karate, and Kickboxing—and I proudly serve as a volunteer Samaritan cadet with the Hellenic Red Cross.
+
+
+:::
+
+<script>
+// Force all profile buttons to open in a new tab
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll('.about-links a').forEach(link => {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener noreferrer');
+  });
+});
+</script>
+

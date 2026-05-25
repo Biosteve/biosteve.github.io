@@ -1,1 +1,55 @@
-/* css styles */
+/* Force Quarto's Trestles template into a strict grid */
+
+body.homepage-bg {
+  background-image: url("Images/Logo.png");
+  background-size: cover;      
+  background-position: center; 
+  background-attachment: fixed;
+}
+
+body.about-bg {
+  background-image: url("Images/Background.png");
+  background-size: cover;      
+  background-position: center; 
+  background-attachment: fixed;
+}
+
+/* 2. Style the profile and text container */
+div.quarto-about-trestles {
+  background-color: rgba(255, 255, 255, 0.50); 
+  padding: 10em !important;
+  border-radius: 15px; 
+ 
+  color: #1a1a1a !important;
+
+  /* 3. The Grid layout fix */
+  display: grid !important;
+  grid-template-columns: 15% 85% !important; 
+  column-gap: 5em !important;
+  align-items: start !important;
+}
+
+/* 4. Style the clickable buttons */
+div.quarto-about-trestles .about-links a {
+  background-color: #2c3e50 !important; /* A professional dark slate blue */
+  color: #ffffff !important;            /* Crisp white text and icons */
+  padding: 10px 15px !important;        /* Adds comfortable breathing room */
+  border-radius: 8px !important;        /* Smooth, slightly rounded corners */
+  margin-bottom: 10px !important;       /* Spacing between the buttons */
+  text-decoration: none !important;     /* Removes any default underlines */
+  font-weight: bold !important;         /* Makes the text slightly thicker */
+  transition: all 0.3s ease !important; /* Creates a smooth animation */
+}
+
+/* 5. Add an interactive hover effect */
+div.quarto-about-trestles .about-links a:hover {
+  background-color: #1a252f !important; /* Turns a darker shade when hovered */
+  transform: translateY(-2px) !important;/* Makes the button "lift" slightly */
+}
+
+
+/* Ensure the internal left/right columns respect the grid */
+.about-entity, .about-contents {
+  width: 100% !important;
+  margin: 0 !important;
+}

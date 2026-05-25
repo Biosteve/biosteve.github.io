@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "biosteve.github.io",
+    "title": "Stefanos Fragkoulis",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello World, I’m Stefanos!\nI am a Biologist and PRINCE2-certified Project Manager. I combine a strong scientific foundation with advanced data science skills to bridge the gap between complex research and technical execution.\nCurrently, I manage workflows and coordinate panel committees at the Hellenic Foundation for Research and Innovation (HFRI). Moving forward, I am actively seeking remote Bioinformatics, Data Science, or Technical Project Management roles within the EMEA region where I can dedicate the majority of my time to writing code, building pipelines, and analyzing data.\n\n\nBeyond the Screen\nWhen I am not managing panels or writing code, you will usually find me outdoors walking, running, or hiking. I train in multiple martial arts—including Brazilian Jiu-Jitsu, Kyokushin Karate, and Kickboxing—and I proudly serve as a volunteer Samaritan cadet with the Hellenic Red Cross."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Stefanos N. Fragkoulis",
+    "title": "Stefanos Fragkoulis",
     "section": "",
-    "text": "This is the personal website of Stefanos N. Fragkoulis.\nHello World!\n\nI’m a Bioinformatician/Data Analyst with a PhD in Biology and two MSc degrees—one in Environmental Biology and the other in Applied Bioinformatics & Data Analysis. With over 10 years of experience in data analysis, I have worked on 3 national and 3 international Research Grants in the fields of natural and biological sciences. My expertise spans Genomics, Systems Biology, Environmental Science, and the integration of biological and environmental data.\nIn my current role as a Science Officer and Panel Coordinator for Life Science Committees, I have honed my skills in research evaluation, panel coordination, and framework development to ensure the highest standards of scientific rigor. I also hold certifications in Project Management and Data Science (R & Python) and have contributed to 12 peer-reviewed publications and 11 conference proceedings.\nI’m eager to apply my experience and skills in data-driven biological research and bioinformatics to make a meaningful impact in the industrial sector, particularly in biotech, conservation, and environmental industries. I’m always open to connecting with professionals and organizations looking to push the boundaries of research and innovation."
+    "text": "Hello World!"
   },
   {
     "objectID": "technical_publications.html",
@@ -47,5 +47,75 @@
     "title": "Academic Monographs",
     "section": "",
     "text": "Doctoral Dissertation | Biology\nAllometric growth patterns of body shape in Gilthead sea bream (Sparus aurata Linnaeus, 1758). Normal phenotype and skeletal deformities\nDOI: http://hdl.handle.net/10442/hedi/48656\nSummary\n\nThis research utilized geometric morphometry, X-ray imaging, and individual pit-tagging to longitudinally track the external morphology and skeletal deformities of reared gilthead sea bream from the juvenile stage to harvest size.\nThe study revealed that normal body shape undergoes significant biphasic allometric growth, while also documenting the first evidence that severe deformities like haemal lordosis can naturally recover through vertebral remodeling or counter-balanced kyphosis.\nUltimately, demonstrating this morphological plasticity during the on-growing period provides valuable predictive tools for enhancing selective breeding programs and improving the quality of commercial aquaculture products.\n\nKeywords: External morphology, Allometric trajectories, Skeletal biology, Geometric morphometry\nMaster’s Thesis | Applied Bioinformatics and Data Analysis\nAnalysis of the evolutionary history of eukaryotic genes in relation to their spatial arrangement in the eukaryotic nucleus\nDOI: https://repo.lib.duth.gr/jspui/handle/123456789/22090\nSummary\n\nThis research investigated the three-dimensional spatial reorganization of the genome, specifically Radial Positioning (RP), during the transdifferentiation of B-lymphocytes into macrophages.\nBy analyzing distinct time points and evolutionary gene origins, the study revealed significant chromosomal relocation where nuclear positioning strongly correlates with both a gene’s functional role and its phylogenetic age.\nUltimately, the findings demonstrate that cellular reprogramming requires more than just a transcriptional shift, relying heavily on a comprehensive spatial restructuring of the genome to establish a new cellular identity.\n\nKeywords: Systems biology, Genome architecture, Bioinformatics\nMaster’s Thesis | Environmental Biology\nSources of phenotypic variation in reared Gilthead sea bream. Morpho-anatomical abnormalities, variability of normal phenotype and heritability estimations\nDOI: https://elocus.lib.uoc.gr/dlib/3/f/0/metadata-dlib-1424950701-864372-31568.tkl\nSummary\n\nThis research investigated the phenotypic variance of reared sea bream, examining how different rearing conditions affect skeletal abnormalities in larvae and overall body shape in adults.\nBy developing novel semi-quantitative scales and conducting parentage analysis, the study revealed significant heritabilities for both specific external jaw deformities (\\(h^2 = 0.115 \\pm 0.041\\)) and distinct adult morphological traits.\nUltimately, establishing these quantitative metrics for early ontogenetic stages minimizes environmental noise, providing highly heritable morphological targets to improve future selective breeding programs in aquaculture.\n\nKeywords: Skeletal abnormalities, Heritability, Plasticity"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Stefanos Fragkoulis",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Biology | University of Crete\nMSc in Applied Bioinformatics | Democritus University of Thrace\nMSc in Environmental Biology | University of Crete\nBSc in Biology | University of Patras"
+  },
+  {
+    "objectID": "about.html#certifications-memberships",
+    "href": "about.html#certifications-memberships",
+    "title": "Stefanos Fragkoulis",
+    "section": "Certifications & Memberships",
+    "text": "Certifications & Memberships\n\nProject Management: PRINCE2® Foundation Certificate\nData Science & Programming: Data Science: Foundations using R | The Complete Python Developer | Machine Learning Track\nProfessional Affiliations: Member of the International Society for Computational Biology (ISCB)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Stefanos Fragkoulis",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Biology | University of Crete\nMSc in Applied Bioinformatics | Democritus University of Thrace\nMSc in Environmental Biology | University of Crete\nBSc in Biology | University of Patras"
+  },
+  {
+    "objectID": "index.html#certifications-memberships",
+    "href": "index.html#certifications-memberships",
+    "title": "Stefanos Fragkoulis",
+    "section": "Certifications & Memberships",
+    "text": "Certifications & Memberships\n\nProject Management: PRINCE2® Foundation Certificate\nData Science & Programming: Data Science: Foundations using R | The Complete Python Developer | Machine Learning Track\nProfessional Affiliations: Member of the International Society for Computational Biology (ISCB)"
+  },
+  {
+    "objectID": "index.html#hi-im-stefanos",
+    "href": "index.html#hi-im-stefanos",
+    "title": "Stefanos Fragkoulis",
+    "section": "Hi, I’m Stefanos",
+    "text": "Hi, I’m Stefanos\nI am a Biologist and PRINCE2-certified Project Manager. I combine a strong scientific foundation with advanced data science skills to bridge the gap between complex research and technical execution.\nCurrently, I manage workflows and coordinate panel committees at the Hellenic Foundation for Research and Innovation (HFRI). Moving forward, I am actively seeking remote Bioinformatics, Data Science, or Technical Project Management roles within the EMEA region where I can dedicate the majority of my time to writing code, building pipelines, and analyzing data.\n\nBeyond the Screen\nWhen I am not managing panels or writing code, you will usually find me outdoors walking, running, or hiking. I train in multiple martial arts—including Brazilian Jiu-Jitsu, Kyokushin Karate, and Kickboxing—and I proudly serve as a volunteer Samaritan cadet with the Hellenic Red Cross."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "📄 Download PDF Resume"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nScience Officer & Panel Coordinator | Hellenic Foundation for Research and Innovation (HFRI) Present * Coordinate panel committees and manage complex organizational workflows for research funding and evaluation.\nPostdoctoral Researcher | NSRF 2014-2020 Project (RV PHILIA) * Conducted morphometric research to examine the susceptibility of invasive and alien fish species to skeletal deformities.\nResearch Biologist | Horizon 2020 Research Grant * Managed complete morphometric workflows, data analyses, and publication writing focusing on the recovery of haemal lordosis in G. seabream.\nResearch Biologist | NSRF 2014-2020 Project * Performed comprehensive samplings and morphometric analyses researching genome and microbiome impacts on development and growth."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nPh.D. in Biology | University of Crete\nMSc in Applied Bioinformatics\nMSc in Environmental Biology —"
+  },
+  {
+    "objectID": "resume.html#technical-skills-certifications",
+    "href": "resume.html#technical-skills-certifications",
+    "title": "Curriculum Vitae",
+    "section": "Technical Skills & Certifications",
+    "text": "Technical Skills & Certifications\n\nCertifications\n\nProject Management: PRINCE2® Foundation Certificate (June 2023)\nData Science: Data Science: Foundations using R (Sept 2022)\nProgramming: The Complete Python Developer (2025) | Machine Learning Track (2025)\n\n\n\nProfessional Memberships\n\nISCB: International Society for Computational Biology (Member since July 2025)"
+  },
+  {
+    "objectID": "resume.html#volunteering-community",
+    "href": "resume.html#volunteering-community",
+    "title": "Curriculum Vitae",
+    "section": "Volunteering & Community",
+    "text": "Volunteering & Community\nVolunteer Samaritan Cadet | Hellenic Red Cross * Completed over 170 hours of health coverage and ongoing emergency response training."
   }
 ]

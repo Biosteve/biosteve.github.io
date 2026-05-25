@@ -1,21 +1,26 @@
 ---
-title: "Stefanos N. Fragkoulis"
+title: "Stefanos Fragkoulis"
+body-classes: about-bg
+image: Images/About_logo.png
 about:
-  template: jolla
-  image: C:/Users/stefa/Desktop/R Projects/biosteve.github.io/Images/About_logo.png
+  template: trestles
+  image-shape: rounded
+  image-width: 10em
   links:
-    - icon: Linkedin
+    - icon: envelope
+      text: Email
+      href: mailto:stefanos_fragkoulis@hotmail.com
+    - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/stefanos-fragkoulis-333341205/
-    - icon: Github
+    - icon: github
       text: Github
       href: https://github.com/Biosteve
-    - icon: ORCID
+    - icon: orcid
       text: ORCID
       href: https://orcid.org/0000-0002-3504-2564
+css: styles.css
 ---
-
-This is the personal website of Stefanos N. Fragkoulis.
 
 Hello World!
 
@@ -26,5 +31,29 @@ I’m a Bioinformatician/Data Analyst with a PhD in Biology and two MSc degrees�
 In my current role as a Science Officer and Panel Coordinator for Life Science Committees, I have honed my skills in research evaluation, panel coordination, and framework development to ensure the highest standards of scientific rigor. I also hold certifications in Project Management and Data Science (R & Python) and have contributed to 12 peer-reviewed publications and 11 conference proceedings.
 
 I’m eager to apply my experience and skills in data-driven biological research and bioinformatics to make a meaningful impact in the industrial sector, particularly in biotech, conservation, and environmental industries. I’m always open to connecting with professionals and organizations looking to push the boundaries of research and innovation.
+
+
+### What I am looking For
+
+I am actively seeking **remote Bioinformatics, Data Science or Management roles within the EMEA region**. My ideal role is highly technical, allowing me to spend roughly 80% of my time focused on coding, data analysis, and building pipelines.
+
+### Beyond the Code
+
+When I am not working on data or managing panels, I am highly active in the outdoors—whether walking, running, or hiking. I am a dedicated practitioner of multiple martial arts, including Brazilian Jiu-Jitsu, Kyokushin Karate, and Kickboxing. I also serve as a volunteer cadet with the Hellenic Red Cross, currently training to become a Samaritan with over 170 hours of health coverage completed.
+
+
+## Education
+
+* **Ph.D. in Biology** | University of Crete
+* **MSc in Applied Bioinformatics** | Democritus University of Thrace
+* **MSc in Environmental Biology** | University of Crete
+* **BSc in Biology** | University of Patras
+
+
+## Certifications & Memberships
+
+* **Project Management:** PRINCE2® Foundation Certificate 
+* **Data Science & Programming:** Data Science: Foundations using R | The Complete Python Developer | Machine Learning Track
+* **Professional Affiliations:** Member of the International Society for Computational Biology (ISCB)
 
 :::

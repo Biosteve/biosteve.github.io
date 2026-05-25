@@ -13,6 +13,7 @@ website:
     right:
       - href: index.qmd
         text: Home
+      - resume.qmd
       - about.qmd
       - monographs.qmd
       - technical_publications.qmd
