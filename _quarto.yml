@@ -8,7 +8,7 @@ project:
 website:
   title: "biosteve.github.io"
   navbar:
-    logo: "C:/Users/stefa/Desktop/R Projects/biosteve.github.io/images/PLogo.png"
+    logo: "C:/Users/stefa/Desktop/R Projects/biosteve.github.io/images/Logo.png"
     pinned: True
     right:
       - href: index.qmd
