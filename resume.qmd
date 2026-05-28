@@ -6,22 +6,53 @@ title: "Curriculum Vitae"
   📄 Download PDF Resume
 </a>
 
+::: {style="text-align: justify;"}
+## **Summary**
 
+ _I am a Bioinformatician and Data Scientist (PhD Biology, MSc Bioinformatics) who specializes in transitioning complex biological questions into scalable computational solutions. I thrive on hands-on coding, engineering automated pipelines, and solving high-dimensional data architecture problems._
+ 
+ _Currently, I serve as a Science Officer and Panel Coordinator at the Hellenic Foundation for Research and Innovation (HFRI). In this role, I have directed the end-to-end evaluation life cycle for 8 high-stakes Life Sciences funding panels. This involves managing portfolios valued at over €19M, ensuring strict data integrity and regulatory compliance, and synthesizing complex quantitative data across 1,000+ proposals into actionable reports._
+
+ _Alongside my extensive experience in science coordination and project management (PRINCE2), my primary technical focus—driven by my recent MSc in Bioinformatics, is deep computational execution. I actively build maintainable, reproducible pipelines to process and model high-dimensional biological datasets, allowing me to bridge the gap between scientific strategy and rigorous technical delivery._
+:::
+
+::: {style="text-align: justify;"}
 ## Professional Experience
 
-* **Science Officer & Panel Coordinator** | *Hellenic Foundation for Research and Innovation (HFRI)*       *Present* * Coordinate panel committees and manage complex organizational workflows for research funding   and evaluation. 
+* **Science Officer & Panel Coordinator** | *Hellenic Foundation for Research and Innovation (HFRI)* |     *October 2022 - Present*
 
-* **Postdoctoral Researcher** | *NSRF 2014-2020 Project (RV PHILIA)* * Conducted morphometric research to   examine the susceptibility of invasive and alien fish species to skeletal deformities.
+  * **Directed the end-to-end evaluation life cycle** for 8 high-stakes Life Sciences funding panels, overseeing portfolios of total 1017 grant proposals and funding research projects valued at over €19M
 
-* **Research Biologist** | *Horizon 2020 Research Grant* * Managed complete morphometric workflows, data   analyses, and publication writing focusing on the recovery of haemal lordosis in *G. seabream*.
+  * **Synthesized complex qualitative and quantitative data** across 1017 applications, distilling multi-layered expert evaluations into actionable consensus reports for executive funding decisions
 
-* **Research Biologist** | *NSRF 2014-2020 Project* * Performed comprehensive samplings and morphometric   analyses researching genome and microbiome impacts on development and growth.
-
----
-# Projects involved
----
+  * **Coordinated cross-functional workflows** for national and international domain experts, ensuring strict data integrity, regulatory compliance, and on-time milestone delivery
 
 
+* **Postdoctoral Researcher** | *Hellenic Centre for Marine Research (HCMR)* | Heraklion, Greece | January 2022 – March 2022
+
+  * Executed high-resolution X-ray examinations and complex morphometric measurements for the RV Philia project
+  
+  * Processed and modeled morphological datasets to quantify and compare skeletal deformities between invasive and indigenous fish species of the Cretan Sea
+
+* **Senior Lead Scientist & Research Scientist** | *University of Crete, Biology Deparment* | June 1012 - September 2021
+
+  * Directed end-to-end data strategy and comparative statistical modelling across 5 major research grants (national & international), translating complex biological data into actionable insights and 12 peer-reviewed publications
+  
+  * Engineered large-scale feature extraction pipelines, utilizing geometric morphometrics and X-ray image processing to quantify physical anomalies and model longitudinal developmental trajectories
+  
+  * Collaborated with international stakeholders, domain experts, and funding bodies to ensure strict data integrity, regulatory compliance, and the delivery of high-stakes project milestones
+
+:::
+
+## Projects involved --> what I did for this project
+
+* **H2020**
+
+* **NSRF**
+
+* **NSRF**
+
+::: {style="text-align: justify;"}
 ## Education
 
 * **M.Sc. in Applied Bioinformatics** | November 2024 - March 2026
@@ -32,7 +63,7 @@ title: "Curriculum Vitae"
 
   *University of Crete, Biology Deparment, Heraklion, Greece*
 
-* **MSc in Environmental Biology** | October 2012 - November 2014
+* **M.Sc. in Environmental Biology** | October 2012 - November 2014
 
   *University of Crete, Biology Deparment, Heraklion, Greece*
 
@@ -40,19 +71,43 @@ title: "Curriculum Vitae"
 
   *University of Patras, Department of Biology, Patra, Greece*
 
+:::
 
-## Technical Skills & Certifications
 
-### Certifications #to attach my certificates
+## Technical Stack & Core Competencies:
+
+- Programming & Bioinformatics: R (Tidyverse, Bioconductor), Python, Bash/Shell scripting
+- Data Engineering: Automated pipeline architecture, high-dimensional data processing, and quality control
+- Statistics & Analytics: Advanced statistical modeling, Geometric Morphometrics, Data Visualization
+- Delivery: Version control (Git), reproducible research, and agile project management
+
+
+::: {style="text-align: justify;"}
+## Certificates & Memberships
+
+**Certificates**
+
 * **Project Management:** PRINCE2® Foundation Certificate (June 2023)
-* **Data Science:** Data Science: Foundations using R (Sept 2022)
-* **Programming:** The Complete Python Developer (2025) | Machine Learning Track (2025)
 
-### Professional Memberships
+* **Data Science:** Data Science: Foundations using R (Sept 2022)
+
+* **Programming:** [The Complete Python Developer] (2025) | [Machine Learning Track] (2025)
+
+**Professional Memberships**
+
 * **ISCB:** International Society for Computational Biology | July 2025 - present
 
----
+:::
 
+::: {style="text-align: justify;"}
 ## Volunteering & Community
 
-**Volunteer Samaritan Cadet** | *Hellenic Red Cross* * Completed over 170 hours of health coverage and ongoing emergency response training.
+**Volunteer Samaritan Cadet** | *Hellenic Red Cross* |
+
+  * _Currently undergoing rigorous training within the largest volunteer rescue force in Greece to support emergency response, disaster relief, and first aid initiatives_
+  
+  * Operational Impact: Logged over 170 hours of on-field health coverage and medical standby across high-profile public, cultural, and athletic events
+  
+  * Incident Leadership: Appointed as Team Leader/Shift Coordinator for 4 specific high-stakes deployments, commanding volunteer squads, optimizing tactical resource allocation, and executing real-time crisis management protocols under pressure
+
+:::

@@ -5,7 +5,7 @@ editor_options:
 ---
 
 ::: {style="text-align: justify;"}
-**Doctoral Dissertation | Biology**
+## **Doctoral Dissertation | Biology**
 
 *Allometric growth patterns of body shape in Gilthead sea bream (Sparus aurata* Linnaeus, 1758). Normal phenotype and skeletal deformities
 
@@ -20,8 +20,10 @@ DOI: [http://hdl.handle.net/10442/hedi/48656](http://hdl.handle.net/10442/hedi/4
 - Ultimately, demonstrating this morphological plasticity during the on-growing period provides valuable predictive tools for enhancing selective breeding programs and improving the quality of commercial aquaculture products.
 
 *Keywords: External morphology, Allometric trajectories, Skeletal biology, Geometric morphometry*
+:::
 
-**Master's Thesis | Applied Bioinformatics and Data Analysis**
+::: {style="text-align: justify;"}
+## **Master's Thesis | Applied Bioinformatics and Data Analysis**
 
 *Analysis of the evolutionary history of eukaryotic genes in relation to their spatial arrangement in the eukaryotic nucleus*
 
@@ -36,8 +38,10 @@ DOI: [https://repo.lib.duth.gr/jspui/handle/123456789/22090](https://repo.lib.du
 - Ultimately, the findings demonstrate that cellular reprogramming requires more than just a transcriptional shift, relying heavily on a comprehensive spatial restructuring of the genome to establish a new cellular identity.
 
 *Keywords: Systems biology, Genome architecture, Bioinformatics*
+:::
 
-**Master's Thesis | Environmental Biology**
+::: {style="text-align: justify;"}
+## **Master's Thesis | Environmental Biology**
 
 *Sources of phenotypic variation in reared Gilthead sea bream. Morpho-anatomical abnormalities, variability of normal phenotype and heritability estimations*
 

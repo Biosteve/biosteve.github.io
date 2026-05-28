@@ -6,9 +6,14 @@ resources:
   - "C:/Users/stefa/Desktop/R_Projects/biosteve.github.io/Conferences"
 ---
 
-## Original Articles
 
 ::: {style="text-align: justify;"}
+_A curated archive of academic output featuring 12 peer-reviewed publications (8 as first author) and 11 conference presentations. The research focuses on translating complex biological data and statistical models into clear, actionable insights for both technical and diverse audiences_
+:::
+
+
+::: {style="text-align: justify;"}
+## Original Articles
 
 - **Fragkoulis, S.** & Nikolaou, C. Analysis of the evolutionary history of eukaryotic genes in relation to their spatial arrangement in the eukaryotic nucleus. _(in preparation)_
 
