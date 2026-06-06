@@ -1,7 +1,7 @@
 /* Force Quarto's Trestles template into a strict grid */
 
 body.homepage-bg {
-  background-image: url("Images/Logo.png");
+  background-image: url("Images/Logo_4x.png");
   background-size: cover;      
   background-position: center; 
   background-attachment: fixed;
