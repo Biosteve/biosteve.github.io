@@ -13,10 +13,60 @@ resources:
 ::: {style="text-align: justify;"}
 ## International research projects
 
+* **PERFORMFISH**
+
+Consumer driven Production: Integrating Innovative Approaches for Competitive and Sustainable Performance across the Mediterranean Aquaculture Value Chain (EU, Η2020-SFS-2016-2017, RIA, Contract No 727610). 
+
+
+
+•	Massive Consortium Scale: The project united a massive consortium of 28 partners across 10 European countries. Crucially, it secured the direct involvement of five major fish farming associations, representing 92.8% of the entire EU sea bream and sea bass production
+
+•	High-Tier Funding & Timeline: It was backed by a €7.04 million budget funded through the European Union’s highly competitive Horizon 2020 (H2020) research and innovation program, spanning a comprehensive 5.5-year operational lifecycle (May 2017 to October 2022)
+
+•	Data-Driven Objectives: The core technical mission was to overcome aquaculture stagnation by establishing 55 Key Performance Indicators (KPIs) and deploying advanced computational tools, genomic analyses, and e-Atlases to benchmark and optimize health, feeding, and hatchery practices across the Mediterranean Marine Fish Farming (MMFF) sector
+
+
+* **ACES+**
+
+Teaching and lab assistants
+
+* **FindIT**
+
+A cutting edge platform for data management and analysis to assist European fish aquaculture in its development towards higher performance and competitiveness (EU, FP7)
+
 :::
 
 ::: {style="text-align: justify;"}
 ## National research projects
+
+* **RePHIL**
+
+... ... .... ..... .... ...
+
+
+* Epalth NSRF 2014-2020
+.... ... .. ... . . . . .
+The Operational Programme for Fisheries and Sea 2014-2020 (Greek: Ε.Π. «Αλιεία & Θάλασσα 2014-2020») was the Greek national framework for implementing the European Maritime and Fisheries Fund (EMFF) during the 2014–2020 programming period. 
+
+Key details include:
+
+Total Funding: The Greek programme had a total budget of approximately €388.8 million, co-financed by the EMFF and national sources
+
+Strategic Objectives: It focused on six main priorities: sustainable fishing (including small-scale and new entrants), sustainable aquaculture, processing and marketing, territorial development, application of the Common Fisheries Policy (CFP), and Integrated Maritime Policy
+
+Key Measures: Funding supported investments in fishing vessels, aquaculture modernization, port infrastructure, processing facilities, and environmental protection. It also included measures to support local communities and data collection.
+
+Implementation: The programme was managed by the Greek Ministry of Rural Development and Food (now Ministry of Agriculture and Food) and implemented through various calls for proposals targeting fishermen, aquaculture producers, and related businesses
+
+
+* NSRF 2010 - 2014
+
+Ανάπτυξη καινοτόμων μεθόδων και μοριακών εργαλείων για τον έλεγχο και τη βελτίωση της ποιότητας των εκτρεφόμενων πληθυσμών τσιπούρας και λαβρακιού. (ΣΥΝΕΡΓΑΣΙΑ 2009, ΕΣΠΑ 2007-2013, ΓΓΕΤ).
+
+	Η δράση «Ανάπτυξη καινοτόμων μεθόδων και μοριακών εργαλείων για τον έλεγχο και τη βελτίωση της ποιότητας των εκτρεφόμενων πληθυσμών τσιπούρας και λαβρακιού», γνωστή και ως ΜΕΠΟΙΟΤΗΤΑ, υλοποιήθηκε από 1/7/2011 έως 31/10/2012. 
+•	Χρηματοδότηση: Επιδοτήθηκε μέσω του Ε.Π. Ανταγωνιστικότητα και Επιχειρηματικότητα (ΕΠΑΝ ΙΙ), του ΕΣΠΑ 2007-2013, στη Δράση Εθνικής Εμβέλειας «ΣΥΝΕΡΓΑΣΙΑ». 
+•	Φορέας Υλοποίησης: Το έργο ανατέθηκε από την Επιτροπή Ερευνών του Τεχνολογικού Εκπαιδευτικού Ιδρύματος Μεσολογγίου. 
+•	Στόχος: Η ανάπτυξη εργαλείων γενετικής ταυτοποίησης και ποσοτικής γενετικής ανάλυσης (QTL/GWAS) για τη βελτίωση χαρακτηριστικών όπως η αύξηση και η ανθεκτικότητα σε στρες και ασθένειες στην τσιπούρα (Sparus aurata) και το λαβράκι (Dicentrarchus labrax).
 
 
 :::

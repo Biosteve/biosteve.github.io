@@ -17,7 +17,7 @@ title: "Curriculum Vitae"
 ::: {style="text-align: justify;"}
 ## Professional Experience
 
-- **Science Officer & Panel Coordinator** \| *Hellenic Foundation for Research and Innovation (HFRI)* \| *October 2022 - Present*
+- **Science Officer & Panel Coordinator** | *Hellenic Foundation for Research and Innovation (HFRI)* | *October 2022 - Present*
 
   - **Directed the end-to-end evaluation life cycle** for 8 high-stakes Life Sciences funding panels, overseeing portfolios of total 1017 grant proposals and funding research projects valued at over €19M
 
@@ -25,45 +25,38 @@ title: "Curriculum Vitae"
 
   - **Coordinated cross-functional workflows** for national and international domain experts, ensuring strict data integrity, regulatory compliance, and on-time milestone delivery
 
-- **Postdoctoral Researcher** \| *Hellenic Centre for Marine Research (HCMR)* \| Heraklion, Greece \| January 2022 – March 2022
+- **Postdoctoral Researcher** | *Hellenic Centre for Marine Research (HCMR)* | Heraklion, Greece | January 2022 – March 2022
 
   - Executed high-resolution X-ray examinations and complex morphometric measurements for the RV Philia project
 
   - Processed and modeled morphological datasets to quantify and compare skeletal deformities between invasive and indigenous fish species of the Cretan Sea
 
-- **Senior Lead Scientist & Research Scientist** \| *University of Crete, Biology Deparment* \| June 1012 - September 2021
+- **Senior Lead Scientist & Research Scientist** | *University of Crete, Biology Deparment* | June 1012 - September 2021
 
   - Directed end-to-end data strategy and comparative statistical modelling across 5 major research grants (national & international), translating complex biological data into actionable insights and 12 peer-reviewed publications
 
   - Engineered large-scale feature extraction pipelines, utilizing geometric morphometrics and X-ray image processing to quantify physical anomalies and model longitudinal developmental trajectories
 
   - Collaborated with international stakeholders, domain experts, and funding bodies to ensure strict data integrity, regulatory compliance, and the delivery of high-stakes project milestones
+  
 :::
-
-## Projects involved --\> what I did for this project
-
-- **H2020**
-
-- **NSRF**
-
-- **NSRF**
 
 ::: {style="text-align: justify;"}
 ## Education
 
-- **M.Sc. in Applied Bioinformatics** \| November 2024 - March 2026
+- **M.Sc. in Applied Bioinformatics** | November 2024 - March 2026
 
   *Democritus University of Thrace, Department of Molecular Biology & Genetics, Alexandroupoli, Greece*
 
-- **Ph.D. in Biology** \| June 2016 - December 2020
+- **Ph.D. in Biology** | June 2016 - December 2020
 
   *University of Crete, Biology Deparment, Heraklion, Greece*
 
-- **M.Sc. in Environmental Biology** \| October 2012 - November 2014
+- **M.Sc. in Environmental Biology** | October 2012 - November 2014
 
   *University of Crete, Biology Deparment, Heraklion, Greece*
 
-- **B.Sc. in Biology** \| October 2005 - March 2012
+- **B.Sc. in Biology** | October 2005 - March 2012
 
   *University of Patras, Department of Biology, Patra, Greece*
 :::
@@ -84,17 +77,17 @@ title: "Curriculum Vitae"
 
 - **Data Science:** Data Science: Foundations using R (Sept 2022)
 
-- **Programming:** \[The Complete Python Developer\] (2025) \| \[Machine Learning Track\] (2025)
+- **Programming:** [The Complete Python Developer] (2025) | [Machine Learning Track] (2025)
 
 **Professional Memberships**
 
-- **ISCB:** International Society for Computational Biology \| July 2025 - present
+- **ISCB:** International Society for Computational Biology | July 2025 - present
 :::
 
 ::: {style="text-align: justify;"}
 ## Volunteering & Community
 
-**Volunteer Samaritan Cadet** \| *Hellenic Red Cross* \|
+**Volunteer Samaritan Cadet** | *Hellenic Red Cross* |
 
 - *Currently undergoing rigorous training within the largest volunteer rescue force in Greece to support emergency response, disaster relief, and first aid initiatives*
 
