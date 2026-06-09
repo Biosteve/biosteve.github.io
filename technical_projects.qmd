@@ -1,0 +1,22 @@
+---
+title: "Research Projects"
+editor_options: 
+  chunk_output_type: inline
+resources:
+  - "C:/Users/stefa/Desktop/R_Projects/biosteve.github.io/Conferences"
+---
+
+::: {style="text-align: justify;"}
+*About the research projects in which Stefanos Fragkoulis developed his soft and technical skills*
+:::
+
+::: {style="text-align: justify;"}
+## International research projects
+
+:::
+
+::: {style="text-align: justify;"}
+## National research projects
+
+
+:::
