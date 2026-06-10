@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Stefanos Fragkoulis",
     "section": "",
-    "text": "Hello World, I’m Stefanos!\nI am a Biologist and PRINCE2-certified Project Manager. I combine a strong scientific foundation with advanced data science skills to bridge the gap between complex research and technical execution.\nCurrently, I manage workflows and coordinate panel committees at the Hellenic Foundation for Research and Innovation (HFRI). Moving forward, I am actively seeking remote Bioinformatics, Data Science, or Technical Project Management roles within the EMEA region where I can dedicate the majority of my time to writing code, building pipelines, and analyzing data.\n\n\nBeyond the Screen\nWhen I am not managing panels or writing code, you will usually find me outdoors walking, running, or hiking. I train in multiple martial arts—including Brazilian Jiu-Jitsu, Kyokushin Karate, and Kickboxing—and I proudly serve as a volunteer Samaritan cadet with the Hellenic Red Cross."
+    "text": "**Hello World, I’m Stefanos!*\nThis is the personal website of Stefanos N. Fragkoulis\nA few introductory words, also what you will find here.\nfeel free to contact me either social media or e-mail, using the link buttons.\nEitherwise, feel free to roam around the website to learn more about me."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Stefanos Fragkoulis",
     "section": "",
-    "text": "Hello World!"
+    "text": "Hello World, my name is Stefanos!"
   },
   {
     "objectID": "technical_publications.html",
@@ -116,7 +116,7 @@
     "href": "resume.html#volunteering-community",
     "title": "Curriculum Vitae",
     "section": "Volunteering & Community",
-    "text": "Volunteering & Community\nVolunteer Samaritan Cadet | Hellenic Red Cross |\n\nCurrently undergoing rigorous training within the largest volunteer rescue force in Greece to support emergency response, disaster relief, and first aid initiatives\nOperational Impact: Logged over 170 hours of on-field health coverage and medical standby across high-profile public, cultural, and athletic events\nIncident Leadership: Appointed as Team Leader for 4 specific high-stakes deployments, commanding volunteer squads, optimizing tactical resource allocation, and executing real-time crisis management protocols under pressure"
+    "text": "Volunteering & Community\nVolunteer Samaritan Cadet | Hellenic Red Cross | October 2025 - present\n\nCurrently undergoing rigorous training within the largest volunteer rescue force in Greece to support emergency response, disaster relief, and first aid initiatives\nOperational Impact: Logged over 170 hours of on-field health coverage and medical standby across high-profile public, cultural, and athletic events\nIncident Leadership: Appointed as Team Leader for 4 specific high-stakes deployments, commanding volunteer squads, optimizing tactical resource allocation, and executing real-time crisis management protocols under pressure"
   },
   {
     "objectID": "resume.html#projects-involved-what-i-did-for-this-project",
@@ -143,8 +143,8 @@
     "objectID": "resume.html#technical-stack-core-competencies",
     "href": "resume.html#technical-stack-core-competencies",
     "title": "Curriculum Vitae",
-    "section": "Technical Stack & Core Competencies:",
-    "text": "Technical Stack & Core Competencies:\n\nProgramming & Bioinformatics: R (Tidyverse, Bioconductor), Python, Bash/Shell scripting\nData Engineering: Automated pipeline architecture, high-dimensional data processing, and quality control\nStatistics & Analytics: Advanced statistical modeling, Geometric Morphometrics, Data Visualization\nDelivery: Version control (Git), reproducible research, and agile project management"
+    "section": "Technical Stack & Core Competencies",
+    "text": "Technical Stack & Core Competencies\n\nProgramming & Bioinformatics: R (Tidyverse, Bioconductor), Python (pandas, numpy, scikit-learn), Bash/Shell scripting\nData Engineering: Automated pipeline architecture, high-dimensional data processing, and quality control\nStatistics & Analytics: Advanced statistical modelling, Geometric morphometrics, Data visualization\nDelivery: Version control (Git), reproducible research, agile project management"
   },
   {
     "objectID": "monographs.html#doctoral-dissertation-biology",

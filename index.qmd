@@ -19,23 +19,21 @@ about:
       text: "<img src='Images/orcid.svg' style='width: 16px; height: 16px; margin-right: 8px; margin-bottom: 3px; vertical-align: middle;'> ORCID"
 body-classes: homepage-bg
 css: styles.css
+page-layout: full
 ---
 
+**Hello World, I'm Stefanos!*
 
-::: {style="text-align: justify;"}
+This is the personal website of Stefanos N. Fragkoulis
 
-### Hello World, I'm Stefanos!
+A few introductory words, also what you will find here.
 
-I am a Biologist and PRINCE2-certified Project Manager. I combine a strong scientific foundation with advanced data science skills to bridge the gap between complex research and technical execution. 
+feel free to contact me either social media or e-mail, using the link buttons.
 
-Currently, I manage workflows and coordinate panel committees at the Hellenic Foundation for Research and Innovation (HFRI). Moving forward, I am actively seeking **remote Bioinformatics, Data Science, or Technical Project Management roles within the EMEA region** where I can dedicate the majority of my time to writing code, building pipelines, and analyzing data.
-
-### Beyond the Screen
-
-When I am not managing panels or writing code, you will usually find me outdoors walking, running, or hiking. I train in multiple martial arts—including Brazilian Jiu-Jitsu, Kyokushin Karate, and Kickboxing—and I proudly serve as a volunteer Samaritan cadet with the Hellenic Red Cross.
+Eitherwise, feel free to roam around the website to learn more about me.
 
 
-:::
+
 
 <script>
 // Force all profile buttons to open in a new tab

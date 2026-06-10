@@ -7,14 +7,16 @@ project:
   
 website:
   title: "biosteve.github.io"
+  google-analytics: G-5Q40ZVBD2E
+  cookie-consent: true
   navbar:
     logo: "C:/Users/stefa/Desktop/R Projects/biosteve.github.io/images/Logo.png"
     pinned: True
     right:
       - href: index.qmd
         text: Home
-      - resume.qmd
       - about.qmd
+      - resume.qmd
       - technical_projects.qmd
       - monographs.qmd
       - technical_publications.qmd
@@ -22,7 +24,7 @@ website:
 format:
   html:
     theme:
-      - solar
+      - flatly
     css: styles.css
     toc: true
 

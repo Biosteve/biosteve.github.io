@@ -61,12 +61,12 @@ title: "Curriculum Vitae"
   *University of Patras, Department of Biology, Patra, Greece*
 :::
 
-## Technical Stack & Core Competencies:
+## Technical Stack & Core Competencies
 
-- Programming & Bioinformatics: R (Tidyverse, Bioconductor), Python, Bash/Shell scripting
+- Programming & Bioinformatics: R (Tidyverse, Bioconductor), Python (pandas, numpy, scikit-learn), Bash/Shell scripting
 - Data Engineering: Automated pipeline architecture, high-dimensional data processing, and quality control
-- Statistics & Analytics: Advanced statistical modeling, Geometric Morphometrics, Data Visualization
-- Delivery: Version control (Git), reproducible research, and agile project management
+- Statistics & Analytics: Advanced statistical modelling, Geometric morphometrics, Data visualization
+- Delivery: Version control (Git), reproducible research, agile project management
 
 ::: {style="text-align: justify;"}
 ## Certificates & Memberships
@@ -87,7 +87,7 @@ title: "Curriculum Vitae"
 ::: {style="text-align: justify;"}
 ## Volunteering & Community
 
-**Volunteer Samaritan Cadet** | *Hellenic Red Cross* |
+**Volunteer Samaritan Cadet** | *Hellenic Red Cross* | October 2025 - present
 
 - *Currently undergoing rigorous training within the largest volunteer rescue force in Greece to support emergency response, disaster relief, and first aid initiatives*
 

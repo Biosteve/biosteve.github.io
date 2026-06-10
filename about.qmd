@@ -1,7 +1,7 @@
 ---
-title: "Stefanos Fragkoulis"
+title: "Stefanos N. Fragkoulis"
 body-classes: about-bg
-image: Images/About_logo.png
+image: Images/Avatar.jpg
 about:
   template: trestles
   image-shape: rounded
@@ -22,33 +22,24 @@ about:
 css: styles.css
 ---
 
-Hello World!
+Hello World, my name is Stefanos!
 
 ::: {style="text-align: justify;"}
 
-I’m a Bioinformatician/Data Analyst with a PhD in Biology and two MSc degrees—one in Environmental Biology and the other in Applied Bioinformatics & Data Analysis. With over 10 years of experience in data analysis, I have worked on 3 national and 3 international Research Grants in the fields of natural and biological sciences. My expertise spans Genomics, Systems Biology, Environmental Science, and the integration of biological and environmental data.
+I’m a Bioinformatician/Data Analyst with a PhD in Biology and two MSc degrees—one in Environmental Biology and the other in Applied Bioinformatics & Data Analysis. With over 10 years of experience in data analysis, I have worked on 3 national and 3 international Research Grants in the fields of natural and biological sciences. My expertise spans in Skeletal Biology (emphasizing morpho-anatomical abnormalities), fish morphology, Genomics, Systems Biology,  Environmental Science and the integration of biological and environmental data.
 
-In my current role as a Science Officer and Panel Coordinator for Life Science Committees, I have honed my skills in research evaluation, panel coordination, and framework development to ensure the highest standards of scientific rigor. I also hold certifications in Project Management and Data Science (R & Python) and have contributed to 12 peer-reviewed publications and 11 conference proceedings.
+In my current role as a Science Officer and Panel Coordinator for Life Science Committee (HFRI), I have honed my skills in research evaluation, panel coordination, and framework development to ensure the highest standards of scientific rigor. I also hold certifications in Project Management and Data Science (R & Python) and have excellent communication skills since I have contributed to 12 peer-reviewed publications in international research journals and 11 conference proceedings in both national and international level.
 
 I’m eager to apply my experience and skills in data-driven biological research and bioinformatics to make a meaningful impact in the industrial sector, particularly in biotech, conservation, and environmental industries. I’m always open to connecting with professionals and organizations looking to push the boundaries of research and innovation.
 
 
 ### What I am looking For
 
-I am actively seeking **remote Bioinformatics, Data Science or Management roles within the EMEA region**. My ideal role is highly technical, allowing me to spend roughly 80% of my time focused on coding, data analysis, and building pipelines.
+I am actively seeking **remote Bioinformatics or Data Science roles within the EMEA region**. My ideal role is highly technical, allowing me to spend roughly 80% of my time focused on coding, data analysis, and building pipelines.
 
 ### Beyond the Code
 
-When I am not working on data or managing panels, I am highly active in the outdoors—whether walking, running, or hiking. I am a dedicated practitioner of multiple martial arts, including Brazilian Jiu-Jitsu, Kyokushin Karate, and Kickboxing. I also serve as a volunteer cadet with the Hellenic Red Cross, currently training to become a Samaritan with over 170 hours of health coverage completed.
-
-
-## Education
-
-* **Ph.D. in Biology** | University of Crete
-* **MSc in Applied Bioinformatics** | Democritus University of Thrace
-* **MSc in Environmental Biology** | University of Crete
-* **BSc in Biology** | University of Patras
-
+When I am not managing panels or writing code, you will usually find me outdoors walking, running, or hiking. I train in multiple martial arts—including Brazilian Jiu-Jitsu, Kyokushin Karate, and Kickboxing—and I proudly serve as a volunteer Samaritan cadet with the Hellenic Red Cross.
 
 ## Certifications & Memberships
 
