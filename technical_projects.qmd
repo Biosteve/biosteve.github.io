@@ -7,7 +7,7 @@ resources:
 ---
 
 ::: {style="text-align: justify;"}
-*About the research projects in which Stefanos Fragkoulis developed his soft and technical skills*
+*The research projects in which Stefanos Fragkoulis developed his soft and technical skills while contributing to achieve projects milestones and deliverables*
 :::
 
 ::: {style="text-align: justify;"}
@@ -15,24 +15,38 @@ resources:
 
 * **PERFORMFISH**
 
-Consumer driven Production: Integrating Innovative Approaches for Competitive and Sustainable Performance across the Mediterranean Aquaculture Value Chain (EU, Η2020-SFS-2016-2017, RIA, Contract No 727610). 
+  Consumer driven Production: Integrating Innovative Approaches for Competitive and Sustainable Performance across the Mediterranean Aquaculture Value Chain (EU, Η2020-SFS-2016-2017, RIA, Contract No 727610). 
+
+  * Massive Consortium Scale: The project united a massive consortium of 28 partners across 10 European countries. Crucially, it secured the direct involvement of five major fish farming associations, representing 92.8% of the entire EU sea bream and sea bass production
+
+  * High-Tier Funding & Timeline: It was backed by a €7.04 million budget funded through the European Union’s highly competitive Horizon 2020 (H2020) research and innovation program, spanning a comprehensive 5.5-year operational lifecycle (May 2017 - October 2022)
+
+  * Data-Driven Objectives: The core technical mission was to overcome aquaculture stagnation by establishing 55 Key Performance Indicators (KPIs) and deploying advanced computational tools, genomic analyses, and e-Atlases to benchmark and optimize health, feeding, and hatchery practices across the Mediterranean Marine Fish Farming (MMFF) sector
+
+For more information: <https://performfish.eu/>{.btn .btn-outline-primary .btn-sm target="_blank"}
+
+  *Stefanos' contribution:... ....*
+
+* **FindIT (FP7-KBBE-2013-7-612958)**
+
+  A cutting edge platform for data management and analysis to assist European fish aquaculture in its development towards higher performance and competitiveness (EU, FP7)
+
+  * Innovative Cloud-Based IT Solution: Scaled 'FindIT' from an initial concept into a robust, cloud-based data collection and storage system designed to enable unprecedented sectoral benchmarking across European aquaculture hatcheries.
+
+  * Advanced KPI Analytics & Data Mining: Leveraged innovative data-mining techniques to track and analyze critical Key Performance Indicators (KPIs)—including malformation rates, disease resistance, and growth—to drive preventative actions and continuously improve operational competitiveness.
+
+  * Commercialization & Market Strategy: Directed the transition of the functional prototype into a market-ready commercial product by analyzing market potential, demonstrating real-world applicability, and formulating a comprehensive strategic business plan.
+
+For more information: <https://cordis.europa.eu/project/id/612958>{.btn .btn-outline-primary .btn-sm target="_blank"}
+
+ *Stefanos' contribution:... ....*
+
+* **ACES - Erasmus Mundus Joint Master Degree in Aquaculture, Environment and Society, agreement No 2104-2611/001-001**
+
+Teaching and lab assistant
 
 
-
-•	Massive Consortium Scale: The project united a massive consortium of 28 partners across 10 European countries. Crucially, it secured the direct involvement of five major fish farming associations, representing 92.8% of the entire EU sea bream and sea bass production
-
-•	High-Tier Funding & Timeline: It was backed by a €7.04 million budget funded through the European Union’s highly competitive Horizon 2020 (H2020) research and innovation program, spanning a comprehensive 5.5-year operational lifecycle (May 2017 to October 2022)
-
-•	Data-Driven Objectives: The core technical mission was to overcome aquaculture stagnation by establishing 55 Key Performance Indicators (KPIs) and deploying advanced computational tools, genomic analyses, and e-Atlases to benchmark and optimize health, feeding, and hatchery practices across the Mediterranean Marine Fish Farming (MMFF) sector
-
-
-* **ACES+**
-
-Teaching and lab assistants
-
-* **FindIT**
-
-A cutting edge platform for data management and analysis to assist European fish aquaculture in its development towards higher performance and competitiveness (EU, FP7)
+  *Stefanos' contribution:... ....*
 
 :::
 
