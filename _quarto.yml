@@ -17,8 +17,8 @@ website:
         text: Home
       - about.qmd
       - resume.qmd
-      - technical_projects.qmd
       - monographs.qmd
+      - technical_projects.qmd
       - technical_publications.qmd
 
 format:

@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Stefanos Fragkoulis",
+    "title": "About me!",
     "section": "",
-    "text": "Hello World, my name is Stefanos!"
+    "text": "Hello World, my name is Stefanos!\n\nI’m a Bioinformatician/Data Analyst with a PhD in Biology and two MSc degrees—one in Environmental Biology and the other in Applied Bioinformatics & Data Analysis. With over 10 years of experience in data analysis, I have worked on 3 national and 3 international Research Grants in the fields of natural and biological sciences. My expertise spans in Skeletal Biology (emphasizing morpho-anatomical abnormalities), fish morphology, Genomics, Systems Biology, Environmental Science and the integration of biological and environmental data.\nIn my current role as a Science Officer and Panel Coordinator for Life Science Committee (HFRI), I have honed my skills in research evaluation, panel coordination, and framework development to ensure the highest standards of scientific rigor. I also hold certifications in Project Management and Data Science (R & Python) and have excellent communication skills since I have contributed to 12 peer-reviewed publications in international research journals and 11 conference proceedings in both national and international level.\nI’m eager to apply my experience and skills in data-driven biological research and bioinformatics to make a meaningful impact in the industrial sector, particularly in biotech, conservation, and environmental industries. I’m always open to connecting with professionals and organizations looking to push the boundaries of research and innovation.\n\nWhat I am looking For\nI am actively seeking remote Bioinformatics or Data Science roles within the EMEA region. My ideal role is highly technical, allowing me to spend roughly 80% of my time focused on coding, data analysis, and building pipelines.\n\n\nBeyond the Code\nWhen I am not managing panels or writing code, you will usually find me outdoors walking, running, or hiking. I train in multiple martial arts—including Brazilian Jiu-Jitsu, Kyokushin Karate, and Kickboxing—and I proudly serve as a volunteer Samaritan cadet with the Hellenic Red Cross."
   },
   {
     "objectID": "technical_publications.html",
@@ -186,7 +186,7 @@
     "href": "resume.html#certificates-memberships",
     "title": "Curriculum Vitae",
     "section": "Certificates & Memberships",
-    "text": "Certificates & Memberships\nCertificates\n\nProject Management: PRINCE2® Foundation Certificate (June 2023)\nData Science: Data Science: Foundations using R (Sept 2022)\nProgramming: [The Complete Python Developer] (2025) | [Machine Learning Track] (2025)\n\nProfessional Memberships\n\nISCB: International Society for Computational Biology | July 2025 - present"
+    "text": "Certificates & Memberships\nCertificates\n\nProject Management: PRINCE2® Certificate\nData Science: Data Science: Foundations using R\nProgramming: The Complete Python Developer | Machine Learning Track\n\nProfessional Memberships\n\nISCB: International Society for Computational Biology | July 2025 - present"
   },
   {
     "objectID": "technical_projects.html",

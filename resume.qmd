@@ -73,11 +73,11 @@ title: "Curriculum Vitae"
 
 **Certificates**
 
-- **Project Management:** PRINCE2® Foundation Certificate (June 2023)
+- **Project Management:** [PRINCE2® Certificate](Certificates/PRINCE2_Certificate.pdf){.btn .btn-outline-success .btn-sm target="_blank"}
 
-- **Data Science:** Data Science: Foundations using R (Sept 2022)
+- **Data Science:** [Data Science: Foundations using R](Certificates/Coursera_R_Data_Science_Certificate.pdf){.btn .btn-outline-success .btn-sm target="_blank"}
 
-- **Programming:** [The Complete Python Developer] (2025) | [Machine Learning Track] (2025)
+- **Programming:** [The Complete Python Developer](Certificates/Udemy_Python_Certificate.pdf){.btn .btn-outline-success .btn-sm target="_blank"} | [Machine Learning Track](Certificates/Galaxy_ML_Certificate.pdf){.btn .btn-outline-success .btn-sm target="_blank"}
 
 **Professional Memberships**
 

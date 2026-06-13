@@ -1,28 +1,22 @@
 ---
-title: "Stefanos N. Fragkoulis"
+title: "About me!"
 body-classes: about-bg
 image: Images/Avatar.jpg
 about:
   template: trestles
   image-shape: rounded
   image-width: 10em
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:stefanos_fragkoulis@hotmail.com
-    - icon: linkedin
-      text: Linkedin
-      href: https://www.linkedin.com/in/stefanos-fragkoulis-333341205/
-    - icon: github
-      text: Github
-      href: https://github.com/Biosteve
-    - icon: orcid
-      text: ORCID
-      href: https://orcid.org/0000-0002-3504-2564
-css: styles.css
 ---
 
 Hello World, my name is Stefanos!
+
+This is where you show personality and cultural fit.
+•	Professional Journey: A brief narrative of your path. Mention your academic foundation (like Environmental Biology) and how it evolved into your current technical and coordination roles.
+•	Beyond the Screen: Employers look for well-rounded candidates. Dedicate a small section to your life outside of work. Mentioning discipline-building activities—like practicing martial arts, running, hiking, or dedicating hours to volunteer health coverage—shows dedication and community focus.
+
+
+
+
 
 ::: {style="text-align: justify;"}
 
@@ -40,11 +34,5 @@ I am actively seeking **remote Bioinformatics or Data Science roles within the E
 ### Beyond the Code
 
 When I am not managing panels or writing code, you will usually find me outdoors walking, running, or hiking. I train in multiple martial arts—including Brazilian Jiu-Jitsu, Kyokushin Karate, and Kickboxing—and I proudly serve as a volunteer Samaritan cadet with the Hellenic Red Cross.
-
-## Certifications & Memberships
-
-* **Project Management:** PRINCE2® Foundation Certificate 
-* **Data Science & Programming:** Data Science: Foundations using R | The Complete Python Developer | Machine Learning Track
-* **Professional Affiliations:** Member of the International Society for Computational Biology (ISCB)
 
 :::
