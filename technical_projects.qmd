@@ -13,7 +13,7 @@ resources:
 ::: {style="text-align: justify;"}
 ## International research projects
 
-* **PERFORMFISH**
+* **PerformFISH**
 
   Consumer driven Production: Integrating Innovative Approaches for Competitive and Sustainable Performance across the Mediterranean Aquaculture Value Chain (EU, Η2020-SFS-2016-2017, RIA, Contract No 727610). 
 
