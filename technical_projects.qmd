@@ -25,11 +25,17 @@ resources:
 
 For more information: <https://performfish.eu/>{.btn .btn-outline-primary .btn-sm target="_blank"}
 
-  *Stefanos' contribution:... ....*
+  *Stefanos' contribution*
+  
+  1. Quantitative Analysis & Data Integrity: Executed advanced statistical modeling and quantitative data analysis. Established stringent data quality control and morphometric measurement protocols across thousands of finfish samples, guaranteeing 100% data integrity for downstream genomic pipelines
+
+  2. Strategic Delivery & Research Execution: Spearheaded critical morphometric research initiatives across two major work packages. Successfully fulfilled core project deliverables, which simultaneously served as the fully-funded foundational research for my PhD
+
+  3. High-Impact Scientific Dissemination: Translated complex biological data and statistical findings into actionable scientific literature, culminating in three peer-reviewed publications and a featured oral presentation to the international scientific community
 
 * **FindIT (FP7-KBBE-2013-7-612958)**
 
-  A cutting edge platform for data management and analysis to assist European fish aquaculture in its development towards higher performance and competitiveness (EU, FP7)
+  A cutting edge platform for data management and analysis to assist European fish aquaculture in its development towards higher performance and competitiveness (EU, FP7).
 
   * Innovative Cloud-Based IT Solution: Scaled 'FindIT' from an initial concept into a robust, cloud-based data collection and storage system designed to enable unprecedented sectoral benchmarking across European aquaculture hatcheries.
 
@@ -39,14 +45,32 @@ For more information: <https://performfish.eu/>{.btn .btn-outline-primary .btn-s
 
 For more information: <https://cordis.europa.eu/project/id/612958>{.btn .btn-outline-primary .btn-sm target="_blank"}
 
- *Stefanos' contribution:... ....*
+  *Stefanos' contribution*
+ 
+ 1. End-to-End Data Pipeline Management: Directed the comprehensive collection, integration, and rigorous pre-processing of complex, multi-site datasets from diverse European aquaculture hatcheries to populate the FindIT cloud-based platform
+ 
+ 2. Advanced Analytics & KPI Modeling: Executed sophisticated data analysis and data-mining techniques to evaluate critical biological and operational Key Performance Indicators (KPIs), including malformation rates, disease resistance, and growth trajectories
+ 
+ 3. Sectoral Benchmarking & Insight Generation: Uncovered underlying factors driving KPI variability across different sites, translating raw biological data into actionable insights that enabled unprecedented sectoral benchmarking and optimized commercial competitiveness
+ 
 
 * **ACES - Erasmus Mundus Joint Master Degree in Aquaculture, Environment and Society, agreement No 2104-2611/001-001**
 
-Teaching and lab assistant
+  The Erasmus Mundus Joint Master Degree (EMJMD) in Aquaculture, Environment and Society (ACES)—currently operating under its expanded iteration known as ACES-STAR—is a highly specialized, two-year (120 ECTS) postgraduate program.
+  
+  * Specialized Finfish Research & Biological Foundations: Conducted advanced postgraduate research at the University of Crete (an elite marine science hub within the ACES consortium), specializing in finfish aquaculture, early life development, genetic selection, and pathology
 
+  * International Consortium Collaboration: Operated successfully within a highly competitive, multi-million euro EU-funded framework (EACEA). Demonstrated high adaptability and cross-cultural communication skills by collaborating with international peers and leading European marine institutes
 
-  *Stefanos' contribution:... ....*
+  * Industry-Driven Sustainability Focus: Bridged the gap between rigorous academic research and commercial aquaculture priorities. Focused on practical, industry-aligned solutions addressing global food security, fish welfare, and sustainable environmental practices as outlined by the European Aquaculture Technology and Innovation Platform (EATiP)
+
+  *Stefanos' contribution*
+  
+  1. Laboratory Management & Experimental Execution: Directed the end-to-end organization, preparation, and supervision of complex biological laboratory exercises, ensuring strict adherence to scientific protocols and high-quality sample processing
+
+  2. Specialized Mentorship & Technical Training: Instructed and co-supervised international postgraduate cohorts, providing hands-on training in advanced morphometric methodologies to accurately identify, track, and analyze morpho-anatomical abnormalities through precise body shape examination
+
+  3. Academic Research & Literature Synthesis: Conducted comprehensive scientific literature reviews to define, scope, and develop cutting-edge thesis topics, establishing strong theoretical and methodological frameworks for subsequent postgraduate research
 
 :::
 
@@ -55,22 +79,41 @@ Teaching and lab assistant
 
 * **RePHIL**
 
-... ... .... ..... .... ...
+  The project "Hellenic Research Fleet - Reconstruction of the Research Vessel PHILIA was funded by the Operational Program (OP) "Competitiveness Entrepreneurship and Innovation" (NSRF) for the period 2014-2020 from the Regional Departments of Crete, Attiki and South Aegean, co-financed by the European Regional Development Fund (ERDF).
+
+  * Major Infrastructure Investment: A €3.13 million reconstruction and modernization initiative co-financed by the ERDF and executed through a strategic partnership between the Hellenic Centre for Marine Research (HCMR) and the National Technical University of Athens (NTUA)
+
+  * Technological & Research Modernization: Focused on completely upgrading the 26-meter R/V PHILIA with advanced technological tools and modern hydroacoustic equipment to meet contemporary demands in climate change monitoring, oceanography, and ecosystem-based fisheries management
+
+  * Broad Socio-Economic & Scientific Impact: Designed to directly support productive sectors—including fish farming, tourism, and undersea energy exploration—while simultaneously driving scientific innovation, generating new academic publications, and creating opportunities for young researchers
+
+ *Stefanos' contribution*
+ 
+  1. Independent Postdoctoral Research & Lab Operations: Directed comprehensive, independent wet-lab workflows and conducted rigorous morphological analyses under a dedicated postdoctoral research grant
+
+  2. End-to-End Data Lifecycle Management: Executed the complete data pipeline—from the rigorous pre-processing of raw biological datasets to advanced statistical analysis—guaranteeing high-fidelity data for downstream academic research
+
+  3. Data Visualization & Scientific Dissemination: Translated complex morphometric findings into high-quality data visualizations and analytical outputs, bridging the gap between raw laboratory data and impactful dissemination
 
 
-* Epalth NSRF 2014-2020
-.... ... .. ... . . . . .
-The Operational Programme for Fisheries and Sea 2014-2020 (Greek: Ε.Π. «Αλιεία & Θάλασσα 2014-2020») was the Greek national framework for implementing the European Maritime and Fisheries Fund (EMFF) during the 2014–2020 programming period. 
+* **Greek National Framework (NSRF 2014-2020, Novelty in Aquaculture, Project No. 5010952)**
 
-Key details include:
+  The research grant was part of the Operational Programme for Fisheries and Sea 2014-2020 (Greek: Ε.Π. «Αλιεία & Θάλασσα 2014-2020»). It was the Greek national framework for implementing the European Maritime and Fisheries Fund (EMFF) during the 2014–2020 programming period
 
-Total Funding: The Greek programme had a total budget of approximately €388.8 million, co-financed by the EMFF and national sources
+  * National Funding Framework: Served as the primary Greek framework for the European Maritime and Fisheries Fund (EMFF), deploying a €519.6 million budget co-financed by the EU and national sources under the Ministry of Rural Development and Food (now Ministry of Agriculture and Food)
 
-Strategic Objectives: It focused on six main priorities: sustainable fishing (including small-scale and new entrants), sustainable aquaculture, processing and marketing, territorial development, application of the Common Fisheries Policy (CFP), and Integrated Maritime Policy
+  * Strategic Sectoral Development: Driven by six core priorities aimed at advancing sustainable aquaculture and small-scale fishing, optimizing processing and marketing pipelines, and enforcing the Common Fisheries Policy (CFP)
 
-Key Measures: Funding supported investments in fishing vessels, aquaculture modernization, port infrastructure, processing facilities, and environmental protection. It also included measures to support local communities and data collection.
+  * Infrastructure & Community Investment: Facilitated critical, large-scale investments across the maritime economy, funding the modernization of aquaculture facilities and port infrastructure while supporting environmental protection, local communities, and vital data collection initiatives
 
-Implementation: The programme was managed by the Greek Ministry of Rural Development and Food (now Ministry of Agriculture and Food) and implemented through various calls for proposals targeting fishermen, aquaculture producers, and related businesses
+
+ *Stefanos' contribution*
+ 
+  1. Field Data Acquisition & Quality Control: Spearheaded comprehensive, on-site biological sampling protocols for sea bream and sea bass across commercial aquaculture facilities, executing rigorous specimen selection to ensure high-fidelity baseline data
+
+  2. End-to-End Sample & Data Pipeline: Managed the complete analytical lifecycle by directing the physical preparation and pre-processing of all collected biological samples, followed by executing the advanced quantitative analysis of the resulting datasets
+
+  3. Scientific Dissemination & Reporting: Translated complex analytical findings into clear, publication-ready formats, successfully preparing and delivering the finalized data for high-impact academic conferences and peer-reviewed scientific publication
 
 
 * NSRF 2010 - 2014
