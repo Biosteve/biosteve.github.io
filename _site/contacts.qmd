@@ -1,0 +1,34 @@
+---
+title: "Contact & Availability"
+body-classes: about-bg
+image: Images/Avatar.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 10em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:stefanos_fragkoulis@hotmail.com
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/stefanos-fragkoulis-333341205/
+    - icon: github
+      text: Github
+      href: https://github.com/Biosteve
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0002-3504-2564
+css: styles.css
+---
+
+
+
+::: {style="text-align: justify;"}
+
+•	Current Status: Briefly state what you are looking for (e.g., "Currently seeking remote roles in the EMEA region").
+•	Contact Methods: Provide a professional email address or a simple contact form.
+•	Professional Links: Include clear links to your GitHub and LinkedIn profiles.
+
+
+:::

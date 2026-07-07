@@ -20,6 +20,7 @@ website:
       - monographs.qmd
       - technical_projects.qmd
       - technical_publications.qmd
+      - contacts.qmd
 
 format:
   html:
