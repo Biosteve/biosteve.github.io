@@ -1,6 +1,6 @@
 ---
 title: "Stefanos Fragkoulis"
-image: Images/About_logo.png
+image: Images/Avatar.jpg
 about:
   template: trestles
   image-shape: rounded
@@ -22,17 +22,27 @@ css: styles.css
 page-layout: full
 ---
 
-**Hello World, I'm Stefanos!*
+::: {style="text-align: justify;padding-right: 3em;"}
+**Hello World, my name is Stefanos and welcome to my personal website!**
 
-This is the personal website of Stefanos N. Fragkoulis
+I am a Bioinformatician and Data Analyst (Ph.D., Double MSc) with a decade of experience driving data-driven biological research. Spanning 6 major research grants, my expertise encompasses skeletal biology, fish morphology, genomics, systems biology, and environmental data integration. Currently serving as a Science Officer and Panel Coordinator at HFRI, I manage high-level research evaluation frameworks. Backed by certifications in Project Management and Data Science (R & Python), my technical work has resulted in 12 peer-reviewed publications and 11 conference proceedings.
 
-A few introductory words, also what you will find here.
+### What I am looking for
 
-feel free to contact me either social media or e-mail, using the link buttons.
+I am actively seeking remote Bioinformatics or Data Science roles within the EMEA region. I thrive in highly technical environments and am looking for an opportunity to spend 80% of my time focused on coding, data analysis, and pipeline architecture to push boundaries in the biotech, conservation, and environmental industries.
 
-Eitherwise, feel free to roam around the website to learn more about me.
+### Beyond the Code
+
+Outside the lab and away from the keyboard, you will usually find me outdoors hiking, training in martial arts (BJJ, Kyokushin Karate, Kickboxing), or proudly serving as a volunteer Samaritan cadet with the Hellenic Red Cross.
+
+From research and collaborations to conferences and hobbies, you’ll find a bit of everything here. 
+
+Have a look around and feel free to reach out if you’d like to connect!
+
+![](Images/About_logo.png){fig-align="center" width="25%"}
 
 
+:::
 
 
 <script>

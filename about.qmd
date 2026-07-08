@@ -1,5 +1,5 @@
 ---
-title: "About me!"
+title: "About Stefanos"
 body-classes: about-bg
 image: Images/Avatar.jpg
 about:
@@ -7,15 +7,6 @@ about:
   image-shape: rounded
   image-width: 10em
 ---
-
-Hello World, my name is Stefanos!
-
-This is where you show personality and cultural fit.
-•	Professional Journey: A brief narrative of your path. Mention your academic foundation (like Environmental Biology) and how it evolved into your current technical and coordination roles.
-•	Beyond the Screen: Employers look for well-rounded candidates. Dedicate a small section to your life outside of work. Mentioning discipline-building activities—like practicing martial arts, running, hiking, or dedicating hours to volunteer health coverage—shows dedication and community focus.
-
-
-
 
 
 ::: {style="text-align: justify;"}

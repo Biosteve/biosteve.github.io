@@ -15,12 +15,10 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
       - resume.qmd
       - monographs.qmd
       - technical_projects.qmd
       - technical_publications.qmd
-      - Contacts.qmd
 
 format:
   html:
