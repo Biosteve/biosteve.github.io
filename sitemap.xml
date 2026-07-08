@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://Biosteve.github.io/biosteve.github.io/technical_publications.html</loc>
+    <lastmod>2026-05-28T11:04:36.100Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Biosteve.github.io/biosteve.github.io/resume.html</loc>
+    <lastmod>2026-06-13T10:03:25.586Z</lastmod>
+  </url>
+  <url>
     <loc>https://Biosteve.github.io/biosteve.github.io/index.html</loc>
-    <lastmod>2026-04-21T18:38:53.876Z</lastmod>
+    <lastmod>2026-07-08T09:08:22.765Z</lastmod>
   </url>
   <url>
     <loc>https://Biosteve.github.io/biosteve.github.io/about.html</loc>
-    <lastmod>2026-04-21T18:41:05.265Z</lastmod>
+    <lastmod>2026-07-08T08:56:11.885Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Biosteve.github.io/biosteve.github.io/Contacts.html</loc>
+    <lastmod>2026-06-13T09:55:06.824Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Biosteve.github.io/biosteve.github.io/monographs.html</loc>
+    <lastmod>2026-05-28T09:27:26.609Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Biosteve.github.io/biosteve.github.io/technical_projects.html</loc>
+    <lastmod>2026-07-07T10:52:13.459Z</lastmod>
   </url>
 </urlset>
