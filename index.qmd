@@ -1,6 +1,6 @@
 ---
 title: "Stefanos Fragkoulis"
-image: Images/Avatar.jpg
+image: Images/Avatar.png
 about:
   template: trestles
   image-shape: rounded
